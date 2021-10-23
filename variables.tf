@@ -8,11 +8,11 @@ variable "region" {
 variable "endpoint" {
   description = "Endpoint url"
   type        = string
-  default    = "tobais.cf"
+  default    = "tobiasdevops.link"
 }
 
 variable "domain_name" {
   description = "Domain name"
   type        = string
-  default     = "tobias.cf"
+  default     = "tobiasdevops.link"
 }
